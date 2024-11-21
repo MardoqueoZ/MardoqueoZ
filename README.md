@@ -1,5 +1,5 @@
 # ¡Hola! 👋, soy Mardoqueo Zotelo.
-***
+
 Soy Licenciado en Análisis de Sistemas y Desarrollador Web Junior, enfocado en crear soluciones tecnológicas innovadoras y eficientes. Me apasiona la programación y el aprendizaje continuo de nuevas herramientas y técnicas. Aspiro a seguir creciendo en el desarrollo de software y aportar soluciones que marquen una diferencia positiva.
 
 ## Tecnologías
